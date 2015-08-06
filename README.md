@@ -1,14 +1,14 @@
 # Tip Calculator
-
+<!--
 Please skim through this entire document first.  Specific instructions for what to do (and in which order) appear further down.
 
 ## Set the stage
 
 - Clear the stage (close all other terminal tabs, chrome tabs, email etc...)
 - Figure out the "what" and "why" by a) reading through objectives and b) reading through the activities below
-- REMEMBER!  It's about the process.  There's no rush.  Take risks, have fun!  Don't be afraid to make mistakes and try things.
+- REMEMBER!  It's about the process.  There's no rush.  Take risks, have fun!  Don't be afraid to make mistakes and try things. -->
 
-### Objectives:
+<!-- ### Objectives:
 
 By the end of this lesson you should be able to:
 
@@ -29,22 +29,21 @@ Being able to keep your code organized is crucial to keeping the long-term cost 
 ## Activities
 
 **Get Setup**
-
-1. Fork, clone, `cd` into this project and open it in your text editor
+ -->
+<!-- 1. Fork, clone, `cd` into this project and open it in your text editor
 1. Create a standard HTML project with the following files / folders:
   * index.html
   * css
     * app.css
   * js
-    * app.js
-1. Wire up the `js/app.js` and `css/app.css` files
+    * app.js -->
+<!--     1. Wire up the `js/app.js` and `css/app.css` files
   - add a simple `console.log` in the js file to verify that it's included correctly
   - add a simple style change, like a background color on `body`, to verify that it's referenced correctly
 1. In git, commit, push and start a a pull request
+ -->
 
----
-
-**User can see a properly styled form**
+<!-- **User can see a properly styled form**
 
 Write your HTML according to the wireframe below.  Make sure to include:
 
@@ -65,10 +64,11 @@ Self-assess:
 - Is your HTML valid according to https://validator.w3.org/nu/ ?
   - Use the "text input" option and paste your HTML
   - If not, fix any errors and revalidate
-- Are you using inline styles or style elements to center the fields?  
+- Are you using inline styles or style elements to center the fields?
   - If so, move any `style` attributes or `center` tags to the linked css file
 - When you click in the amount field and start typing, does the initial text disappear?
-  - If not, you may have used `value` instead of `placeholder`, as indicated by the wireframe
+ -->
+ <!--  - If not, you may have used `value` instead of `placeholder`, as indicated by the wireframe
 
 Create a checkpoint:
 
@@ -76,11 +76,9 @@ It's easier to be brave and take risks when you've saved a recent copy of your w
 
 Hi-five!  One down...
 
----
-
 **User can see the correct tip amount when they enter just a number (without a $)**
-
-Write javascript to satisfy the following user story:
+ -->
+<!-- Write javascript to satisfy the following user story:
 
     When a user enters a whole number (1, 4, 65 etc...)
     And clicks "Calculate Tip"
@@ -103,11 +101,9 @@ Check your work:
 - Does the `$` appear correctly in the output?
   - If not, go back and look over the wireframe above and make your output match
 
-Commit:
-
-You've just done some awesome work.  In git, commit and push to save your work.
-
----
+Commit:-->
+<!--  You've just done some awesome work.  In git, commit and push to save your work.
+ -->
 
 **User can see the correct tip amount when they enter a number with $**
 
@@ -214,7 +210,7 @@ What new questions do you have now that you've gone through this exercise?
 
 List at least 4 here:
 
-1. 
-1. 
-1. 
-1. 
+1.
+1.
+1.
+1.
